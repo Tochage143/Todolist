@@ -53,7 +53,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/todolist-app.git
+git clone https://github.com/Tochage143/Todolist.git
 cd todolist-app
 
 # 2. Install dependencies
@@ -64,4 +64,4 @@ npm start
 ```
 > Then visit 👉 http://localhost:3000 to see the app in action!
 
-<h2 align="center" style="margin-top: 3rem;">🙋‍♂️ Author</h2> <p align="center" style="font-size: 1.05rem;"> <strong>Me</strong> – <a href="https://github.com/yourusername" target="_blank">GitHub Profile</a><br/> 💬 Feel free to reach out if you wanna collab, contribute, or just chat about cool projects! </p>
+<h2 align="center" style="margin-top: 3rem;">🙋‍♂️ Author</h2> <p align="center" style="font-size: 1.05rem;"> <strong>Tochage143</strong> – <a href="https://github.com/yourusername" target="_blank">GitHub Profile</a><br/> 💬 Feel free to reach out if you wanna collab, contribute, or just chat about cool projects! </p>
